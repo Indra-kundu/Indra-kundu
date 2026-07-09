@@ -14,6 +14,9 @@ Hi, I’m Indra Kundu, a passionate Web Developer dedicated to transforming comp
 - 🌱 I’m currently learning Vibe Coding 
 - 👯 I’m looking to collaborate on GitHub 
 
+### 📞 Contact Me
+*   **Email:** indrakundu77@gmail.com
+*   **Phone:** +880 1XXXXXXXXXX
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Indra-Kundu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Indra-Kundu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Indra )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Indra)  
 
