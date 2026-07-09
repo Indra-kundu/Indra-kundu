@@ -1,6 +1,7 @@
+![Web Developer](https://i.postimg.cc/L8NSbzJh/Whats-App-Image-2026-07-09-at-3-45-10-PM.jpg)
+
 ### Hi there 👋, I'm Indra Kundu
 #### Web Developer
-![Web Developer](https://i.postimg.cc/L8NSbzJh/Whats-App-Image-2026-07-09-at-3-45-10-PM.jpg)
 
 Hi, I’m Indra Kundu, a passionate Web Developer dedicated to transforming complex challenges into efficient, user-centric digital solutions. With a strong foundation in Computer Science and a specialized focus on the MERN stack—including React, Next.js, and MongoDB—I bridge the gap between technical architecture and creative execution. Beyond my academic achievements in building robust systems, I bring a unique entrepreneurial mindset that allows me to align technical development with real-world business goals. I am a firm believer in maintaining strict discipline and time management in all my professional commitments, ensuring that every project is delivered with precision and quality. I am constantly refining my craft to build high-performance applications and am always eager to collaborate on innovative projects that push the boundaries of modern web technology.
 
