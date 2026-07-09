@@ -47,9 +47,9 @@ Hi, I’m Indra Kundu, a passionate Web Developer dedicated to transforming comp
 
 
 ### 📊 GitHub Stats
-![Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indra-kundu&show_icons=true&theme=radical&count_private=true)
+![Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indra-kundu&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
-![Indra's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-kundu&layout=compact&theme=radical)
+![Indra's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-kundu&layout=compact&theme=radical&cache_seconds=1800)
 
 ### 🔥 GitHub Streak Stats
-![Indra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indra-kundu&theme=radical)
+![Indra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indra-kundu&theme=radical&cache_seconds=1800)
