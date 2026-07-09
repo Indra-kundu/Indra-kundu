@@ -19,13 +19,16 @@ Hi, I’m Indra Kundu, a passionate Web Developer dedicated to transforming comp
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on Skilswap Project 
-- 🌱 I’m currently learning Vibe Coding 
-- 👯 I’m looking to collaborate on GitHub 
+
+### 🚀 Current Focus & Collaboration
+* 🔭 **Working on:** [Skilswap Project](link-to-repo) – A comprehensive platform connecting **Freelancers, Clients, and Admins** to streamline skill-based project management and collaboration.
+* 🌱 **Learning:** Currently exploring the creative world of **Vibe Coding**.
+* 👯 **Open for Collaboration:** Passionate about open-source and looking to collaborate on meaningful projects. Let's build something great together! 
 
 ### 📞 Contact Me
 *   **Email:** indrakundu77@gmail.com
 *   **Phone:** +880 1XXXXXXXXXX
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Indra-Kundu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Indra-Kundu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Indra )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Indra)  
 
