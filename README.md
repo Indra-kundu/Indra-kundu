@@ -6,17 +6,28 @@
 Hi, I’m Indra Kundu, a passionate Web Developer dedicated to transforming complex challenges into efficient, user-centric digital solutions. With a strong foundation in Computer Science and a specialized focus on the MERN stack—including React, Next.js, and MongoDB—I bridge the gap between technical architecture and creative execution. Beyond my academic achievements in building robust systems, I bring a unique entrepreneurial mindset that allows me to align technical development with real-world business goals. I am a firm believer in maintaining strict discipline and time management in all my professional commitments, ensuring that every project is delivered with precision and quality. I am constantly refining my craft to build high-performance applications and am always eager to collaborate on innovative projects that push the boundaries of modern web technology.
 
 ### 🛠 Technical Toolkit
+
+#### 🌐 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+#### ⚙️ Backend
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+#### 🚀 Tools & DevOps
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 
