@@ -1,5 +1,4 @@
-![Web Developer](https://i.postimg.cc/L8NSbzJh/Whats-App-Image-2026-07-09-at-3-45-10-PM.jpg)
-
+![Web Developer](https://i.postimg.cc/d3V8qpMh/Gemini-Generated-Image-fa1jtrfa1jtrfa1j.png)
 ### Hi there 👋, I'm Indra Kundu
 #### Web Developer
 
